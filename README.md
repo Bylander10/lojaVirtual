@@ -1,1 +1,1 @@
-React, Next, Spring, Lombok, Maven
+React, Next, Spring, Lombok, Maven, MySQL, Apache
